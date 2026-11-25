@@ -1,31 +1,118 @@
-# NEMESIS-MINI BOT
-<img width="1672" height="941" alt="1000165771" src="https://github.com/user-attachments/assets/73df3b86-1357-43b5-a7f2-f3a43881a356" />
 
-## Konochiwa Senpai.
 
-> In The World where Everything is Paid (sold) **Ridz Coder** 😔 Is Here to provide Free Stuff because Codding is his Passion
-
-```
-DON'T FORGET TO FORK 🍴 & STAR 🌟 MA REPO🫠
-```
-
----
-
-> **CURRENT BOT VERSION ➜ `1.0.0. `**
----
-
-## Requirements 
-> MONGODB url
-
-> Internet connection
-
-> server Side hosting platform ie Render,heroku koyeb and railway
 <p align="center">
-<b>🎉 Congratulations! Your bot is now deployed if you Have all of the above</b>
+  <h1 align="center" style="font-family: 'Orbitron', sans-serif; text-shadow: 0 0 10px #00ffff, 0 0 20px #0088ff;">NEMESIS MD V3/></h1>
 </p>
 
 <p align="center">
-<sub>For further assistance, join ma support channel below</sub>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=ULTIMATE+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+BAILEYS;FAST++SECURE++RELIABLE" alt="Animated Typing SVG" />
+</p>
+
+<div align="center">
+  <a href="https://github.com/Ridzcoder/followers"><img title="Followers" src="https://img.shields.io/github/followers/Ridzcoder?color=00ffff&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/Ridz-coder01/NEMESIS-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Ridz-coder01/NEMESIS-MD?color=00ffff&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
+  <a href="https://github.com/Ridz-coder01/NEMESIS-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Ridz-coder01/NEMESIS-MD?color=00ffff&style=for-the-badge&logo=git&logoColor=white"></a>
+  <a href="https://github.com/Ridz-coder01/NEMESIS-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/Ridz-coder01/NEMESIS-MD?style=for-the-badge&color=00ffaa&logo=docusign&logoColor=white"></a>
+  <a href="https://github.com/Ridz-coder01/NEMESIS-MD/graphs/commit-activity"><img height="28" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge&logo=gitpod&logoColor=white"></a>
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NEMESIS-MD&label=VISITORS&style=flat-square&color=00ffff" /> 
+
+<!-- ✨ HOLOGRAPHIC ANIMATED HEADER -->
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+```
+DON'T FORGET TO FORK 🍴 & STAR 🌟 OUR REPO🫠
+```
+---
+
+> **CURRENT BOT VERSION ➜ `3.0.0. ⚡`**
+---
+
+<a><img src='https://files.catbox.moe/dynze8.png'/></a>
+
+<!-- ⚡ TYPING EFFECT -->
+<p align="center">
+<a href="https://github.com/RIDZCODER">
+<img src="http://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&vCenter=true&width=550&lines=🚀+Multi-Functional+WhatsApp+Bot;🎯+Next-Gen+Automation+For+WhatsApp;💎+By+Ridz+Coder" alt="Typing Animation">
+</a>
+</p>
+
+---
+## 📡 DEPLOYMENT SITES
+
+<p align="center">
+Deploy <strong>NEMESIS MD V3</strong> on your preferred platform.
+</p>
+
+<p align="center">
+  <a href="https://heroku.com/deploy">
+    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
+  </a>
+  <a href="https://railway.app/new">
+    <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://render.com/deploy">
+    <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+  </a>
+  <a href="https://app.koyeb.com/deploy">
+    <img src="https://img.shields.io/badge/Koyeb-121212?style=for-the-badge&logo=koyeb&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://replit.com/github">
+    <img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white"/>
+  </a>
+  <a href="https://termux.dev/en/">
+    <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+  </a>
+</p>
+
+---
+<h2 align="center">📋 HOW TO DEPLOY ON PANELS</h2>
+
+<blockquote align="center">
+<strong>Follow these steps carefully for successful panel deployment</strong>
+</blockquote>
+
+<br/>
+
+<table align="center" border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 80%; background-color: #f8f9fa;">
+<tr>
+<td style="padding: 15px; border-radius: 10px;">
+<ol style="font-size: 16px; line-height: 2;">
+<li><code style="background-color: #e1e4e8; padding: 3px 6px; border-radius: 4px;">Fork</code> the Repository.</li>
+<li>If already forked then <code style="background-color: #e1e4e8; padding: 3px 6px; border-radius: 4px;">sync</code> fork repository.</li>
+<li>Edit Line 9 of the setting.js<code style="background-color: #e1e4e8; padding: 3px 6px; border-radius: 4px;">Code</code> paste your base64 session id<code style="background-color: #e1e4e8; padding: 3px 6px; border-radius: 4px;">get it for the session button below and save</code>.</li>
+<li>Click on the green <code style="background-color: #e1e4e8; padding: 3px 6px; border-radius: 4px;">Code</code> button and click <code style="background-color: #e1e4e8; padding: 3px 6px; border-radius: 4px;">download as zip</code>.</li>
+<li><code style="background-color: #e1e4e8; padding: 3px 6px; border-radius: 4px;">Upload</code> the script zip file to your <code style="background-color: #e1e4e8; padding: 3px 6px; border-radius: 4px;">panel</code>.</li>
+<li><code style="background-color: #e1e4e8; padding: 3px 6px; border-radius: 4px;">Unarchive</code> the uploaded zip file.</li>
+<li>Open the <code style="background-color: #e1e4e8; padding: 3px 6px; border-radius: 4px;">unarchived folder</code> and <code style="background-color: #e1e4e8; padding: 3px 6px; border-radius: 4px;">move</code> all files to container by typing (<code style="background-color: #e1e4e8; padding: 3px 6px; border-radius: 4px;">../</code>)</li>
+<li>Now go to <code style="background-color: #e1e4e8; padding: 3px 6px; border-radius: 4px;">console</code> and <code style="background-color: #e1e4e8; padding: 3px 6px; border-radius: 4px;">start</code> bot.</li>
+<li><strong style="color: #28a745;">✓ Deployment successful!</strong></li>
+</ol>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<p align="center">
+<img src="https://i.imgur.com/LyHic3i.gif" width="100%">
+</p>
+
+<p align="center">
+<b>🎉 Congratulations! Your bot is now deployed on the panel</b>
+</p>
+
+<p align="center">
+<sub>For further assistance, join our support groups above</sub>
 </p>
 ___
 
@@ -33,10 +120,21 @@ ___
 <p align="center"><i>✨ Keep your bot updated regularly to enjoy the latest features and patches.</i></p>
 ___
 
-## credit 
-- Ridz Coder For Debugging 
-* Rclabs For Testing
-+ Aslan For APIs 
+## ✨ NEMESIS MD V3 FEATURES
+
+- 🤖 WhatsApp Multi-Device Support
+- 🔁 Anti-Delete (Text + Media)
+- 🎵 YouTube Audio Downloader
+- 📥 Media Downloader (Instagram, TikTok, etc.)
+- 🧠 AI Chatbot
+- 💬 Group Moderation Commands
+- 📛 Auto Sticker Response
+- 🎮 Word Relay & Game Plugins
+- 👮 Admin Tools (Ban, Kick, Promote)
+- 🌐 Web-based Pairing Interface
+- 📤 Sticker Maker (Image to Sticker)
+
+---
 
 <h2 align="center" style="color:#25D366; font-family:monospace; font-size:26px;">
 🪀 OFFICIAL SUPPORT CHANNEL
@@ -48,13 +146,15 @@ ___
 📢 Get updates, fixes, and sneak peeks directly from the official channel.
 </p>
 
-<a href="https://whatsapp.com/channel/0029Vb73EYZFXUujAoHFor1i" target="_blank">
+<a href="https://whatsapp.com/channel/0029VbBATdIJJhzOXep1c31K" target="_blank">
   <img src="https://img.shields.io/badge/JOIN_CHANNEL-NOW-8A2BE2?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=111111" alt="Join WhatsApp Channel"/>
 </a>
 
 </div>
 
 ---
+
+
 
 ---
 
